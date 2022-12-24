@@ -1,2 +1,2 @@
 # Calculator
-Calculator App made inPython using PyQt5
+Calculator App made using PyQt5
